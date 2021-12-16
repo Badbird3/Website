@@ -181,7 +181,7 @@ It seems that the majority of new v8 bugs are found via fuzzing. After Googling 
 
 In this course, Ventuzelo uses Dharma and Domato to create test case js files to fuzz Chrome DOM engine. 
 
-After following along with this course, I created my own fuzzer using Python [here](link to github)
+After following along with this course, I created my own fuzzer using Python [here](https://github.com/Badbird3/BrowserFun_Public/blob/main/fuzzer/dom_fuzz_automater.py)
 
 ## Next steps
 - Learning to efficiently fuzz is going to be my focus from here on out.
