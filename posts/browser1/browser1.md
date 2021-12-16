@@ -14,7 +14,7 @@ Because of the huge, my interest in exploiting Chrome is huge.
 
 While googling around I discovered that Amy Burnett from Ret2 systems offers a browser exploitation course. I tried to contact Ret2 about training via email, phone and twitter DM but my inquiries were [ignored](https://twitter.com/b4db1rd/status/1450543981624889349).
 
-Because of this, I decided to use their syllabus as a study guide [outline](githublink).
+Because of this, I decided to use their syllabus as a study guide [outline](https://github.com/Badbird3/BrowserFun_Public/blob/main/study/guide.md).
 
 ## Setting Up for Testing
 
