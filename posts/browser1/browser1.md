@@ -1,6 +1,6 @@
 # Tommy's Browser Hacking Experience Part 1
 
-![](C:\Tools\BrowserExploitStudy2.0\writeup\chrome_rocks.png)
+![](https://github.com/Badbird3/Website/blob/main/posts/browser1/img/chrome_rocks.png)
 
 ## Why Chrome?
 
